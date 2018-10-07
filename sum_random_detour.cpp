@@ -7,3 +7,4 @@ long sum_random_detour(int * array, int capacity) {
 		std::swap(array[delete_element], array[capacity-1]);
 		capacity--;
 	}
+}
