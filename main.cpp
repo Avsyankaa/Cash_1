@@ -1,4 +1,3 @@
-
 #include <chrono>
 #include <fstream>
 #include "detours.hpp"
