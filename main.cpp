@@ -1,11 +1,11 @@
-// headers
+#include "detours.hpp"
 
 int main() {
-	std::ofstream file;
-	file.open("Avsyanochka.txt");
-	unsigned capacity = 4096;
-	while (capacity !=35389440) {
-		int * array = new int[capacity];
+std::ofstream file;
+file.open("Avsyanochka.txt");
+unsigned capacity = 4096;
+while (capacity !=35389440) {
+int* array = new int[capacity];
 		for (unsigned i = 0; i < capacity; i++) {
 			array[i] = rand() % 3;
 		}
