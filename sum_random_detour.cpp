@@ -1,10 +1,10 @@
 #include "detours.hpp"
-long sum_random_detour(int * array, int capacity) {
-	long sum = 0;
+unsigned long sum_random_detour(unsigned* array, unsigned capacity) {
+	unsigned long sum = 0;
 	while (capacity != 0) {
-		int delete_element = rand() % capacity; // тут мы получили элемент вектора
+		unsigned delete_element = rand() % capacity; // тут мы получили элемент вектора
 		sum += array[delete_element];
-		std::swap(array[delete_element], array[capacity-1]);
+		std::swap(array[delete_element], array[capacity - 1]);
 		capacity--;
 	}
 }
