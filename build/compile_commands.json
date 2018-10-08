@@ -1,0 +1,32 @@
+[
+{
+  "directory": "/home/ubuntu/workspace/lab-2-cache-Avsyankaa/build",
+  "command": "/usr/bin/c++   -isystem /home/ubuntu/workspace/lab-2-cache-Avsyankaa/gtest/googletest -isystem /home/ubuntu/workspace/lab-2-cache-Avsyankaa/gtest/googletest/include -isystem /home/ubuntu/workspace/lab-2-cache-Avsyankaa/.   -std=c++11 -O1 -fsanitize=address -Wall -Wextra -Wno-unused-command-line-argument -Wshadow -Wnon-virtual-dtor -pedantic   -o CMakeFiles/executable.dir/main.cpp.o -c /home/ubuntu/workspace/lab-2-cache-Avsyankaa/main.cpp",
+  "file": "/home/ubuntu/workspace/lab-2-cache-Avsyankaa/main.cpp"
+},
+{
+  "directory": "/home/ubuntu/workspace/lab-2-cache-Avsyankaa/build",
+  "command": "/usr/bin/c++   -isystem /home/ubuntu/workspace/lab-2-cache-Avsyankaa/gtest/googletest -isystem /home/ubuntu/workspace/lab-2-cache-Avsyankaa/gtest/googletest/include -isystem /home/ubuntu/workspace/lab-2-cache-Avsyankaa/.   -std=c++11 -O1 -fsanitize=address -Wall -Wextra -Wno-unused-command-line-argument -Wshadow -Wnon-virtual-dtor -pedantic   -o CMakeFiles/executable.dir/sum_straight_detour.cpp.o -c /home/ubuntu/workspace/lab-2-cache-Avsyankaa/sum_straight_detour.cpp",
+  "file": "/home/ubuntu/workspace/lab-2-cache-Avsyankaa/sum_straight_detour.cpp"
+},
+{
+  "directory": "/home/ubuntu/workspace/lab-2-cache-Avsyankaa/build",
+  "command": "/usr/bin/c++   -isystem /home/ubuntu/workspace/lab-2-cache-Avsyankaa/gtest/googletest -isystem /home/ubuntu/workspace/lab-2-cache-Avsyankaa/gtest/googletest/include -isystem /home/ubuntu/workspace/lab-2-cache-Avsyankaa/.   -std=c++11 -O1 -fsanitize=address -Wall -Wextra -Wno-unused-command-line-argument -Wshadow -Wnon-virtual-dtor -pedantic   -o CMakeFiles/executable.dir/sum_reverse_detour.cpp.o -c /home/ubuntu/workspace/lab-2-cache-Avsyankaa/sum_reverse_detour.cpp",
+  "file": "/home/ubuntu/workspace/lab-2-cache-Avsyankaa/sum_reverse_detour.cpp"
+},
+{
+  "directory": "/home/ubuntu/workspace/lab-2-cache-Avsyankaa/build",
+  "command": "/usr/bin/c++   -isystem /home/ubuntu/workspace/lab-2-cache-Avsyankaa/gtest/googletest -isystem /home/ubuntu/workspace/lab-2-cache-Avsyankaa/gtest/googletest/include -isystem /home/ubuntu/workspace/lab-2-cache-Avsyankaa/.   -std=c++11 -O1 -fsanitize=address -Wall -Wextra -Wno-unused-command-line-argument -Wshadow -Wnon-virtual-dtor -pedantic   -o CMakeFiles/executable.dir/sum_random_detour.cpp.o -c /home/ubuntu/workspace/lab-2-cache-Avsyankaa/sum_random_detour.cpp",
+  "file": "/home/ubuntu/workspace/lab-2-cache-Avsyankaa/sum_random_detour.cpp"
+},
+{
+  "directory": "/home/ubuntu/workspace/lab-2-cache-Avsyankaa/build",
+  "command": "/usr/bin/c++   -isystem /home/ubuntu/workspace/lab-2-cache-Avsyankaa/gtest/googletest -isystem /home/ubuntu/workspace/lab-2-cache-Avsyankaa/gtest/googletest/include -isystem /home/ubuntu/workspace/lab-2-cache-Avsyankaa/.   -std=c++11 -O1 -fsanitize=address -Wall -Wextra -Wno-unused-command-line-argument -Wshadow -Wnon-virtual-dtor -pedantic   -o CMakeFiles/gtest.dir/gtest/googletest/src/gtest-all.cc.o -c /home/ubuntu/workspace/lab-2-cache-Avsyankaa/gtest/googletest/src/gtest-all.cc",
+  "file": "/home/ubuntu/workspace/lab-2-cache-Avsyankaa/gtest/googletest/src/gtest-all.cc"
+},
+{
+  "directory": "/home/ubuntu/workspace/lab-2-cache-Avsyankaa/build",
+  "command": "/usr/bin/c++   -isystem /home/ubuntu/workspace/lab-2-cache-Avsyankaa/gtest/googletest -isystem /home/ubuntu/workspace/lab-2-cache-Avsyankaa/gtest/googletest/include -isystem /home/ubuntu/workspace/lab-2-cache-Avsyankaa/.   -std=c++11 -O1 -fsanitize=address -Wall -Wextra -Wno-unused-command-line-argument -Wshadow -Wnon-virtual-dtor -pedantic   -o CMakeFiles/gtest.dir/gtest/googletest/src/gtest_main.cc.o -c /home/ubuntu/workspace/lab-2-cache-Avsyankaa/gtest/googletest/src/gtest_main.cc",
+  "file": "/home/ubuntu/workspace/lab-2-cache-Avsyankaa/gtest/googletest/src/gtest_main.cc"
+}
+]
