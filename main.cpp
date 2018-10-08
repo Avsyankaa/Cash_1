@@ -8,7 +8,7 @@ int main() {
     while (capacity != 35389440) {
         unsigned* array = new unsigned[capacity];
         for (unsigned i = 0; i < capacity; i++) {
-            array[i] = rand() % 3;
+            array[i] = std::rand() % 3;
         }
         sum_straight_detour(array, capacity);
         auto start_time = std::chrono::high_resolution_clock::now();
@@ -23,7 +23,7 @@ int main() {
         delete[] array;
         unsigned* array1 = new unsigned[capacity];
         for (unsigned i = 0; i < capacity; i++) {
-            array1[i] = rand() % 3;
+            array1[i] = std::rand() % 3;
         }
         sum_reverse_detour(array1, capacity);
         start_time = std::chrono::high_resolution_clock::now();
@@ -37,7 +37,7 @@ int main() {
         delete[] array1;
         unsigned* array2 = new unsigned[capacity];
         for (unsigned i = 0; i < capacity; i++) {
-            array2[i] = rand() % 3;
+            array2[i] = std::rand() % 3;
         }
         sum_random_detour(array2, capacity);
         start_time = std::chrono::high_resolution_clock::now();
