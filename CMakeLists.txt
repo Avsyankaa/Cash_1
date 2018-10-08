@@ -11,7 +11,7 @@ set(CMAKE_CXX_FLAGS
 
 
 # enum your files
-add_executable(executable
+add_executable(executable main.cpp sum_straight_detour.cpp sum_reverse_detour.cpp sum_random_detour.cpp
 
 )
 find_package (Threads)
