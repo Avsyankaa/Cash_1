@@ -1,3 +1,4 @@
+```Shellsession
 investigation:
 travel_variant: "straight"
 experiments:
@@ -226,3 +227,7 @@ number: 6
   buffer_size: "69120kb"
   results:
   duration: "5515403ms"
+```
+![direction](Graph_straight.png)
+![reverse](Graph_reverse.png)
+![random](Graph_random.png)
