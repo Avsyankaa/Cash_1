@@ -224,7 +224,7 @@ number: 6
   duration: "5235777ms" 
  number: 14
  input_data:
-  buffer_size: "69120kb"
+  buffer_size: "69120kb" 
   results:
   duration: "5515403ms"
 ```
