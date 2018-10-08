@@ -17,62 +17,62 @@ number: 3
  input_data:
   buffer_size: "64kb"
   results:
-  duration: "198ms"  
+  duration: "38ms"  
 number: 4
  input_data:
   buffer_size: "128kb"
   results:
-  duration: "235ms"
+  duration: "76ms"
 number: 5
  input_data:
   buffer_size: "256kb"
   results:
-  duration: "556ms"  
+  duration: "150ms"  
 number: 6
  input_data:
   buffer_size: "512kb"
   results:
-  duration: "1013ms"  
+  duration: "300ms"  
  number: 7
  input_data:
   buffer_size: "1024kb"
   results:
-  duration: "1637ms" 
+  duration: "612ms" 
  number: 8
  input_data:
   buffer_size: "2048kb"
   results:
-  duration: "3387ms" 
+  duration: "1265ms" 
  number: 9
  input_data:
   buffer_size: "4096kb"
   results:
-  duration: "6211ms" 
+  duration: "2569ms" 
  number: 10
  input_data:
   buffer_size: "8192kb"
   results:
-  duration: "12599ms" 
+  duration: "5068ms" 
  number: 11
  input_data:
   buffer_size: "16384kb"
   results:
-  duration: "26348ms"
+  duration: "10137ms"
  number: 12
  input_data:
   buffer_size: "32768kb"
   results:
-  duration: "217612ms"
+  duration: "20873ms"
  number: 13
  input_data:
   buffer_size: "65536kb"
   results:
-  duration: "105213ms" 
+  duration: "105175ms" 
  number: 14
  input_data:
   buffer_size: "69120kb"
   results:
-  duration: "112187ms"
+  duration: "113140ms"
 
 
 investigation:
@@ -94,62 +94,62 @@ number: 3
  input_data:
   buffer_size: "64kb"
   results:
-  duration: "175ms"  
+  duration: "43ms"  
 number: 4
  input_data:
   buffer_size: "128kb"
   results:
-  duration: "387ms"
+  duration: "89ms"
 number: 5
  input_data:
   buffer_size: "256kb"
   results:
-  duration: "606ms"  
+  duration: "180ms"  
 number: 6
  input_data:
   buffer_size: "512kb"
   results:
-  duration: "1133ms"  
+  duration: "351ms"  
  number: 7
  input_data:
   buffer_size: "1024kb"
   results:
-  duration: "1986ms" 
+  duration: "701ms" 
  number: 8
  input_data:
   buffer_size: "2048kb"
   results:
-  duration: "3787ms" 
+  duration: "1481ms" 
  number: 9
  input_data:
   buffer_size: "4096kb"
   results:
-  duration: "7455ms" 
+  duration: "2970ms" 
  number: 10
  input_data:
   buffer_size: "8192kb"
   results:
-  duration: "16003ms" 
+  duration: "6188ms" 
  number: 11
  input_data:
   buffer_size: "16384kb"
   results:
-  duration: "32047ms"
+  duration: "12687ms"
  number: 12
  input_data:
   buffer_size: "32768kb"
   results:
-  duration: "261007ms"
+  duration: "26030ms"
  number: 13
  input_data:
   buffer_size: "65536kb"
   results:
-  duration: "129378ms" 
+  duration: "131418ms" 
  number: 14
  input_data:
   buffer_size: "69120kb"
   results:
-  duration: "140064ms"
+  duration: "139645ms"
   
   investigation:
 travel_variant: "random"
@@ -159,70 +159,70 @@ experiments:
  input_data:
   buffer_size: "16kb"
   results:
-  duration: "234ms"
+  duration: "93ms"
 - experiment:
 number: 2
  input_data:
   buffer_size: "32kb"
   results:
-  duration: "773ms"
+  duration: "190ms"
 number: 3
  input_data:
   buffer_size: "64kb"
   results:
-  duration: "1799ms"  
+  duration: "390ms"  
 number: 4
  input_data:
   buffer_size: "128kb"
   results:
-  duration: "2042ms"
+  duration: "814ms"
 number: 5
  input_data:
   buffer_size: "256kb"
   results:
-  duration: "4242ms"  
+  duration: "1560ms"  
 number: 6
  input_data:
   buffer_size: "512kb"
   results:
-  duration: "9992ms"  
+  duration: "3212ms"  
  number: 7
  input_data:
   buffer_size: "1024kb"
   results:
-  duration: "18426ms" 
+  duration: "7471ms" 
  number: 8
  input_data:
   buffer_size: "2048kb"
   results:
-  duration: "45061ms" 
+  duration: "21470ms" 
  number: 9
  input_data:
   buffer_size: "4096kb"
   results:
-  duration: "116629ms" 
+  duration: "51179ms" 
  number: 10
  input_data:
   buffer_size: "8192kb"
   results:
-  duration: "388429ms" 
+  duration: "138719ms" 
  number: 11
  input_data:
   buffer_size: "16384kb"
   results:
-  duration: "1969759ms"
+  duration: "348945ms"
  number: 12
  input_data:
   buffer_size: "32768kb"
   results:
-  duration: "5840035ms"
+  duration: "2194297ms"
  number: 13
  input_data:
   buffer_size: "65536kb"
   results:
-  duration: "4997407ms" 
+  duration: "5235777ms" 
  number: 14
  input_data:
   buffer_size: "69120kb"
   results:
-  duration: "5200219ms"
+  duration: "5515403ms"
